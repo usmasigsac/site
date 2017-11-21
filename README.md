@@ -1,4 +1,5 @@
 # __USMASIGSAC.COM__
-## Here lies the site of the elite group of individuals known to the common folk as ... 
+## The home page of usmasigac.
+###status: in progress
 
 
